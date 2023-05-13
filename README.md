@@ -11,7 +11,7 @@
 - 👋 Hi, I’m Rustam. I'm working as Engineer and making technological calculations in oil and gas processing industry. Also I'm making different services to automate routine working operations
 - 👀 I’m interested in web development, automation and digital transformation
 - 🌱 I’m currently learning microservice architecture
-- 📫 How to reach me ahmetov.rustam2011@gmail.com t.me/Sai_trocken
+- 📫 How to reach me ahmetov.rustam2011@gmail.com @Sai_trocken
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
