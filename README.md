@@ -38,25 +38,24 @@ ___
 
 ### :fire: My Stats :
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rus-tam&show_icons=true&theme=tokyonight) -->
+<div align='center'>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rus-tam&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rus-tam&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rus-tam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rus-tam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/Sai_trocken/badges/large)](https://www.codewars.com/users/Sai_trocken)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rus-tam&theme=solarized_dark)
-
-<div>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rus-tam&theme=solarized_dark)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rus-tam&theme=solarized_dark)
+  [![codewars](https://www.codewars.com/users/Sai_trocken/badges/large)](https://www.codewars.com/users/Sai_trocken)
+  
 </div>
 
-<div>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rus-tam&theme=solarized_dark)
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rus-tam&theme=gruvbox)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rus-tam&theme=gruvbox)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rus-tam&theme=gruvbox)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rus-tam&theme=gruvbox)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rus-tam&theme=gruvbox)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rus-tam&theme=solarized_dark)
 </div>
 
 
