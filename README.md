@@ -47,13 +47,17 @@ ___
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rus-tam&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rus-tam&theme=solarized_dark)
+<div>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rus-tam&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rus-tam&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rus-tam&theme=solarized_dark)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rus-tam&theme=solarized_dark)
+<div>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rus-tam&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rus-tam&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rus-tam&theme=solarized_dark)
+</div>
 
 
 <!---
