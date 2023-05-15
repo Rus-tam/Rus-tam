@@ -45,6 +45,21 @@ ___
 
 [![codewars](https://www.codewars.com/users/Sai_trocken/badges/large)](https://www.codewars.com/users/Sai_trocken)
 
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rus-tam&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rus-tam&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rus-tam&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rus-tam&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rus-tam&theme=solarized_dark)
+
 
 <!---
 Rus-tam/Rus-tam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
