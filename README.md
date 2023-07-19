@@ -8,9 +8,10 @@
   </h1>
 </div>
 
-- 👋 Hi, I’m Rustam. I'm working as Engineer and making technological calculations in oil and gas processing industry. Also I'm making different services to automate routine working operations
-- 👀 I’m interested in web development, automation and digital transformation
-- 🌱 I’m currently learning microservice architecture
+- 👋 Hi, My name is Rustam, and I am a Senior Engineer specializing in modeling chemical and technological processes.
+- 👨‍🎓 I have a degree in Biotechnology Engineering and a Ph.D. in Chemical Technology, specializing in process engineering and chemical equipment.
+- 👀 My areas of interest include digital transformation, automation of manufacturing processes, implementation of artificial intelligence, and development of user-friendly and modern user interfaces.
+- 🌱 Currently, I am focusing on enhancing my skills in the areas of user interface development and virtual laboratory work development for students studying in the field of chemical technology.
 - 📫 How to reach me t.me/@Sai_trocken
 
 ___
